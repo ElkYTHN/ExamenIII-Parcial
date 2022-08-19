@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186373552012",
+    "project_id": "exameniii-parcial",
+    "storage_bucket": "exameniii-parcial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186373552012:android:8087969572bfcdade108a9",
+        "android_client_info": {
+          "package_name": "com.elkin.exameniii_parcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186373552012-atnc99evvsqe15slu2u1amsgjljqmgb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsurOWaobWnX2MM_0-X_KIWmv5s3DMOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186373552012-atnc99evvsqe15slu2u1amsgjljqmgb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
